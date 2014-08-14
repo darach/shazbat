@@ -66,7 +66,7 @@ Please fork this repository and submit a PR with bogons of your own to grow the 
 
 Its simple to contribute. Just add a class that implements the Bogon interface with something nasty and juicy to exercise hunting and debugging tools and skills with.
 
-## Acknolwdgements
+## Acknowledgements
 
 Nitsan Wakart, for prodding me to recreate this tool.
 
